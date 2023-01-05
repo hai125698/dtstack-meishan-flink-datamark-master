@@ -1,0 +1,5 @@
+mysql_connect:
+  jdbcURL: jdbc:mysql://10.168.86.78:3306/dtstack_dim?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai&useSSL=false&autoReconnect=true
+  hostname: 10.168.86.78
+  username: dtstack_dim
+  password: dtstack_DIM@2022
